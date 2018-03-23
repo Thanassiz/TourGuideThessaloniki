@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Tour Guide Thessaloniki</string>
+
+    <!-- TAB LAYOUT NAMES -->
+    <string name="museum_fragment">Museums</string>
+    <string name="landmark_fragment">Landmarks</string>
+    <string name="nightlife_fragment">Nightlife</string>
+    <string name="restaurant_fragment">Restaurants</string>
+    <!-- MUSEUMS -->
+    <string name="museum_attraction_1">Archaeological Museum</string>
+    <string name="museum_location_1">6 Manoli Andronikou St, GR 546 21</string>
+    <string name="museum_attraction_2">Museum of Byzantine Culture</string>
+    <string name="museum_location_2">2 Stratou Avenue, GR 546 40</string>
+    <string name="museum_attraction_3">White Tower</string>
+    <string name="museum_location_3">Leoforos Nikis Av, GR 546 21</string>
+    <string name="museum_attraction_4">Folklife and Ethnological Museum of Macedonia</string>
+    <string name="museum_location_4">68 Vasilissis Olgas St, GR 546 42</string>
+    <string name="museum_attraction_5">St. Demetrius Crypt</string>
+    <string name="museum_location_5">83 Agiou Dimitriou St, GR 546 31</string>
+    <string name="museum_attraction_6">State Musem of Contemporary Art</string>
+    <string name="museum_location_6">21 Kolokotroni St, GR 564 30</string>
+    <!-- LANDMARKS -->
+    <string name="landmark_attraction_1">Alexander The Great</string>
+    <string name="landmark_location_1">Thessaloniki, GR 546 21</string>
+    <string name="landmark_attraction_2">Rotunda Roman Temple</string>
+    <string name="landmark_location_2">Pl. Agiou Georgiou Rotonta 5, GR 546 35</string>
+    <string name="landmark_attraction_3">Church of Agias Sophia</string>
+    <string name="landmark_location_3">Agias Sofias, GR 546 22</string>
+    <string name="landmark_attraction_4">Aristotelous Square</string>
+    <string name="landmark_location_4">Thessaloniki 546 24</string>
+    <string name="landmark_attraction_5">Arch of Galerius</string>
+    <string name="landmark_location_5">Egnatia 144, GR 546 22</string>
+    <string name="landmark_attraction_6">OTE Tower</string>
+    <string name="landmark_location_6">Leof. Stratou, GR 546 21</string>
+    <!-- NIGHTLIFE & BARS -->
+    <string name="nightlife_attraction_1">Dentro Sto Bar</string>
+    <string name="nightlife_location_1">25 Leoforos Vassileos Georgiou, GR 546 40</string>
+    <string name="nightlife_attraction_2">Archégono</string>
+    <string name="nightlife_location_2">25is Martiou 12, GR 546 46</string>
+    <string name="nightlife_attraction_3">Rahati</string>
+    <string name="nightlife_location_3">Olimpou 75, GR 546 31</string>
+    <string name="nightlife_attraction_4">PULP Bar</string>
+    <string name="nightlife_location_4">Al. Svolou 8, GR 546 22</string>
+    <string name="nightlife_attraction_5">Eightball Club</string>
+    <string name="nightlife_location_5">Pindou, GR 546 25</string>
+    <!-- RESTAURANTS -->
+    <string name="restaurants_attraction_1">Negroponte</string>
+    <string name="restaurants_location_1">Katouni 21, GR 546 25</string>
+    <string name="restaurants_attraction_2">Molyvos</string>
+    <string name="restaurants_location_2">Str. Tsirogianni 1, GR 546 21</string>
+    <string name="restaurants_attraction_3">Sempriko</string>
+    <string name="restaurants_location_3">Fragkon 2, GR 546 26</string>
+    <string name="restaurants_attraction_4">Mageires</string>
+    <string name="restaurants_location_4">Vasileos Irakleiou 42, GR 546 23</string>
+    <string name="restaurants_attraction_5">Kitchen Bar</string>
+    <string name="restaurants_location_5">Warehouse Β2, Port of Thessaloniki, 54110</string>
+    <string name="restaurants_attraction_6">Agioli</string>
+    <string name="restaurants_location_6">Leof. Nikis 15, GR 546 23</string>
+    <string name="restaurants_attraction_7">Kioupia Ladadika</string>
+    <string name="restaurants_location_7">3&#8211;5 Morihovou Sq, Thessaloniki</string>
+
+</resources>
